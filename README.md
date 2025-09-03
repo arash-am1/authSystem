@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## 🚀 Live Preview
+You can view the deployed demo here:  
+👉 [Live Demo on Netlify](https://splendorous-sprite-508429.netlify.app/login)
+
 ## Getting Started
 
 First, run the development server:
