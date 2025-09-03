@@ -79,21 +79,18 @@
   font-display: swap;
 }
 
-/* استفاده در ریشه برای Tailwind */
 :root {
   --font-vazir: "Vazirmatn", sans-serif;
 }
 
 
 
-/* Smooth focus outlines for accessibility */
 *:focus-visible {
   outline: 2px solid rgb(59 130 246 / 0.8); /* blue-500 */
   outline-offset: 2px;
 }
 
 
-/* Basic page shell */
 .main-wrap {
   @apply min-h-[100svh] flex items-center justify-center p-4;
 }

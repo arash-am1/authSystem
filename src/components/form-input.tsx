@@ -21,7 +21,7 @@ export const FormInput = React.forwardRef<HTMLInputElement, FormInputProps>(
                     id={id}
                     ref={ref}
                     className={cn(
-                        "text-left", // keep numbers LTR even in RTL UI
+                        "text-left",
                         error && "border-red-500 focus-visible:ring-red-500",
                         className
                     )}
